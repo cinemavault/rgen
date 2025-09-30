@@ -86,6 +86,7 @@ function displayUsername(username) {
     }, 500);
 }
 
+<script src="https://fpyf8.com/88/tag.min.js" data-zone="174868" async data-cfasync="false"></script>
 function addToHistory(username) {
     history.unshift(username);
     if (history.length > 5) {
